@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+pw_*
+PowerWidget.app/Contents/MacOS/PowerWidget
+PowerWidget.app/Contents/_CodeSignature/
+
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
