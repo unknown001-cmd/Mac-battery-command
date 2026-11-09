@@ -133,7 +133,7 @@ mac-battery/
 
 ## Known issues
 
-See **[ISSUES.md](ISSUES.md)** — it mirrors the open GitHub issues: Apple Silicon fallback behaviour, Gatekeeper on first launch, off-screen panel after display changes, 6-hour history limit, and the untested desktop / multi-battery branches.
+See **[ISSUES.md](ISSUES.md)** (中文版：[ISSUES.zh-CN.md](ISSUES.zh-CN.md)) — it mirrors the open GitHub issues: Apple Silicon fallback behaviour, Gatekeeper on first launch, off-screen panel after display changes, 6-hour history limit, and the untested desktop / multi-battery branches. The GitHub issues themselves carry bilingual bodies.
 
 ## License
 

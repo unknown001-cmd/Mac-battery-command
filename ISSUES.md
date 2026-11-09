@@ -1,6 +1,6 @@
 # Known issues
 
-Everything below is a real, reproducible limitation of the current build — not a wishlist. Each section is mirrored as a GitHub issue with the same title, so the list can be discussed and closed individually.
+Everything below is a real, reproducible limitation of the current build — not a wishlist. Each section is mirrored as a GitHub issue with the same title, so the list can be discussed and closed individually. 中文版见 **[ISSUES.zh-CN.md](ISSUES.zh-CN.md)**；GitHub issues themselves are bilingual (English first, 中文说明 below).
 
 Status legend: 🔴 broken / misleading · 🟠 works but limited · 🟡 polish
 

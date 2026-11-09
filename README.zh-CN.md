@@ -109,7 +109,7 @@ xattr -dr com.apple.quarantine /Applications/PowerWidget.app
 
 ## 已知问题
 
-见 **[ISSUES.md](ISSUES.md)**（与 GitHub Issues 一一对应）：Apple Silicon 回退、首次打开被 Gatekeeper 拦、改显示器后浮窗跑到屏幕外、历史只有 6 小时、无测试无 CI 等。
+见 **[ISSUES.zh-CN.md](ISSUES.zh-CN.md)**（英文版：[ISSUES.md](ISSUES.md)，GitHub Issues 的正文为中英双语）——Apple Silicon 回退、首次打开被 Gatekeeper 拦、改显示器后浮窗跑到屏幕外、历史只有 6 小时、无测试无 CI 等。
 
 ## 许可
 
